@@ -7,4 +7,5 @@
 * 티처블 머신도 배우고
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
-![고양이그림](https://www.google.com/url?sa=i&url=https%3A%2F%2Fxn--o39aqqt5q33r9ecc46a.com%2F&psig=AOvVaw003k_vxMWxCOuGMNR6ngFb&ust=1689903661858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDNpvGUnIADFQAAAAAdAAAAABAl)
+
+![고양이그림](https://cdn.imweb.me/upload/S201910012ff964777e0e3/62f9a36ea3cea.jpg)
