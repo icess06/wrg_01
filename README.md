@@ -7,3 +7,4 @@
 * 티처블 머신도 배우고
 * 깃 허브도 배우고
 * 또 뭘 배우게 될까?
+![이미지 설명](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.donga.com%2Fnews%2FOpinion%2Farticle%2Fall%2F20230512%2F119255020%2F1&psig=AOvVaw003k_vxMWxCOuGMNR6ngFb&ust=1689903661858000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJDNpvGUnIADFQAAAAAdAAAAABAD)
